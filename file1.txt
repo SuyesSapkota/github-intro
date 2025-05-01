@@ -1,1 +1,2 @@
-Into to github
+This is an intro class to git hub
+we are relally having fun.
